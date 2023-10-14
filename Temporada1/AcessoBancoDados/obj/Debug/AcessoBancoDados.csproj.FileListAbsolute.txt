@@ -1,0 +1,7 @@
+E:\GitHub\Drausiotemp1\Temporada1\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+E:\GitHub\Drausiotemp1\Temporada1\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+E:\GitHub\Drausiotemp1\Temporada1\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+E:\GitHub\Drausiotemp1\Temporada1\AcessoBancoDados\obj\Debug\AcessoBancoDados.csproj.AssemblyReference.cache
+E:\GitHub\Drausiotemp1\Temporada1\AcessoBancoDados\obj\Debug\AcessoBancoDados.csproj.CoreCompileInputs.cache
+E:\GitHub\Drausiotemp1\Temporada1\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+E:\GitHub\Drausiotemp1\Temporada1\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
