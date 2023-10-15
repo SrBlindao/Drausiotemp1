@@ -41,7 +41,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClienteNegocios.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AcessoBancoDados\AcessoBancoDados.csproj">
+      <Project>{c2c213ae-acf7-4728-97b6-3965bc4da4aa}</Project>
+      <Name>AcessoBancoDados</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjetoTransferencia\ObjetoTransferencia.csproj">
+      <Project>{279c09f8-3145-4faa-9ce2-0f83c6fd184e}</Project>
+      <Name>ObjetoTransferencia</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
