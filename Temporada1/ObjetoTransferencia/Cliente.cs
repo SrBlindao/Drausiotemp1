@@ -25,9 +25,9 @@ namespace ObjetoTransferencia
         }*/
 
         //Metodo DOTNET
-        //PROP = ATALHO
+        //PROP = ATALHO get; set;
 
-        public int idCliente { get; set; }
+        public int IdCliente { get; set; }
         public string Nome { get; set; }
         public DateTime DataNascimento { get; set; }
         public Boolean Sexo { get; set; }

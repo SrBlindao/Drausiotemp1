@@ -21,12 +21,12 @@ namespace AcessoBancoDados
         //Paramentros que vao para o banco
         private SqlParameterCollection sqlParameterCollection = new SqlCommand().Parameters;
 
-        public void LimparParamentros()
+        public void LimparParametros()
         {
             sqlParameterCollection.Clear();
         }
 
-        public void AdicionarParamentros(string nomeParametro, object valorParametro)
+        public void AdicionarParametros(string nomeParametro, object valorParametro)
         {
             sqlParameterCollection.Add(new SqlParameter(nomeParametro, valorParametro));
         }

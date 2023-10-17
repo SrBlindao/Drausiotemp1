@@ -1,6 +1,12 @@
 E:\GitHub\Drausiotemp1\Temporada1\Negocio\bin\Debug\Negocio.dll
 E:\GitHub\Drausiotemp1\Temporada1\Negocio\bin\Debug\Negocio.pdb
+E:\GitHub\Drausiotemp1\Temporada1\Negocio\bin\Debug\AcessoBancoDados.dll
+E:\GitHub\Drausiotemp1\Temporada1\Negocio\bin\Debug\ObjetoTransferencia.dll
+E:\GitHub\Drausiotemp1\Temporada1\Negocio\bin\Debug\AcessoBancoDados.pdb
+E:\GitHub\Drausiotemp1\Temporada1\Negocio\bin\Debug\AcessoBancoDados.dll.config
+E:\GitHub\Drausiotemp1\Temporada1\Negocio\bin\Debug\ObjetoTransferencia.pdb
 E:\GitHub\Drausiotemp1\Temporada1\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
 E:\GitHub\Drausiotemp1\Temporada1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\GitHub\Drausiotemp1\Temporada1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 E:\GitHub\Drausiotemp1\Temporada1\Negocio\obj\Debug\Negocio.dll
 E:\GitHub\Drausiotemp1\Temporada1\Negocio\obj\Debug\Negocio.pdb
