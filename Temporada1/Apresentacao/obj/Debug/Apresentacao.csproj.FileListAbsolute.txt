@@ -7,3 +7,4 @@ E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\obj\Debug\Apresentacao.csproj.Gen
 E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\obj\Debug\Apresentacao.csproj.CoreCompileInputs.cache
 E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\obj\Debug\Apresentacao.exe
 E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\obj\Debug\Apresentacao.pdb
+E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources

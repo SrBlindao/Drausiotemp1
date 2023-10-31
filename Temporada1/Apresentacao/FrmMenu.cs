@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Apresentacao
 {
-    public partial class Form1 : Form
+    public partial class FrmMenu : Form
     {
-        public Form1()
+        public FrmMenu()
         {
             InitializeComponent();
+        }
+
+        private void menuSair_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
