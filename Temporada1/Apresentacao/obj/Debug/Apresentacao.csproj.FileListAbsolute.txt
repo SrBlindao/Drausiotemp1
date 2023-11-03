@@ -8,3 +8,13 @@ E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\obj\Debug\Apresentacao.csproj.Cor
 E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\obj\Debug\Apresentacao.exe
 E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\obj\Debug\Apresentacao.pdb
 E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\obj\Debug\Apresentacao.FrmClienteSelecionar.resources
+E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\bin\Debug\Negocio.dll
+E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\bin\Debug\ObjetoTransferencia.dll
+E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\bin\Debug\AcessoBancoDados.dll
+E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\bin\Debug\Negocio.pdb
+E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\bin\Debug\ObjetoTransferencia.pdb
+E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\bin\Debug\AcessoBancoDados.pdb
+E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\bin\Debug\AcessoBancoDados.dll.config
+E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\obj\Debug\Apresentacao.csproj.CopyComplete
+E:\GitHub\Drausiotemp1\Temporada1\Apresentacao\obj\Debug\Apresentacao.FrmClienteCadastrar.resources

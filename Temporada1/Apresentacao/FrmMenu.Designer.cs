@@ -79,6 +79,7 @@ namespace Apresentacao
             this.menuCliente.Name = "menuCliente";
             this.menuCliente.Size = new System.Drawing.Size(180, 22);
             this.menuCliente.Text = "Cliente";
+            this.menuCliente.Click += new System.EventHandler(this.menuCliente_Click);
             // 
             // menuSair
             // 

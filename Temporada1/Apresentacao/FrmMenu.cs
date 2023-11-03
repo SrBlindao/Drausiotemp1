@@ -21,5 +21,14 @@ namespace Apresentacao
         {
             Application.Exit();
         }
+
+        private void menuCliente_Click(object sender, EventArgs e)
+        {
+            FrmClienteSelecionar frmClienteSelecionar = new FrmClienteSelecionar();
+
+            frmClienteSelecionar.MdiParent = this;
+
+            frmClienteSelecionar.Show();
+        }
     }
 }
